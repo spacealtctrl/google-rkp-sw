@@ -1,8 +1,8 @@
-# rkp_sw
+# Android Remote Key Provisioning (Software)
 
-Software implementation of Android Remote Key Provisioning (RKP) that generates
+Software implementation of the Android RKP protocol that generates
 `AuthenticatedRequest` CSRs, communicates with Google's production RKP server,
-and exports `keybox.xml` for Android key attestation.
+and exports `keybox.xml` for key attestation.
 
 ## Overview
 
